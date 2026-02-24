@@ -17,7 +17,20 @@ https://www.python.org/
 
 Durante la instalación de Python aparecerá la siguiente casilla:
 
-![Add Python to PATH](docs/images/add_to_path.png)
+![Add Python to PATH](docs/imagenes/add_python_path.png)
 
 Es importante que la actives.  
 Esto permite usar Python desde la terminal de Windows.
+
+## 2. Instalar librerías de Python
+
+Excel Fundamental realiza los cálculos numéricos mediante la librería NumPy  
+y se conecta a Excel mediante la librería xlwings.
+
+Estas librerías deben instalarse adicionalmente.
+
+### Pasos
+
+1. Haz clic en la pestaña **Buscar** de tu computadora.
+
+![Pestaña buscar](docs/imagenes/tutorial_descarga_1.png)
