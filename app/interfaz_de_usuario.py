@@ -1286,3 +1286,4 @@ def integral_cp_entre_t(compuestos, temperatura_1=None, temperatura_2=None, valo
     else:
          return resultado.transpose()
 
+
