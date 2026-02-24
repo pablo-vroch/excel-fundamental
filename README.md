@@ -24,6 +24,9 @@ Durante la instalación de Python aparecerá la siguiente casilla:
 
 Es importante que la actives, esto permite usar Python desde la terminal de Windows.
 
+
+
+
 ---
 
 ## 2. Instalar librerías de Python
@@ -34,29 +37,23 @@ Estas librerías deben instalarse manualmente.
 
 ### Paso 1 — Abrir la terminal
 
-1. Haz clic en la pestaña **Buscar** de Windows.
+Haz clic en la pestaña **Buscar** de Windows.
 
 ![img2](docs/imagenes/img2.png)
 
-2. Escribe `Terminal`.
+Escribe `Terminal`.
 
 ![img3](docs/imagenes/img3.png)
 
-3. Haz clic en la aplicación.
-
----
+Haz clic en la aplicación.
 
 ### Paso 2 — Instalar NumPy
 
-Escribe el siguiente comando y presiona Enter:
+En la terminal de comandos, escribe el siguiente comando y presiona Enter:
 
 ```bash
 python -m pip install numpy
 ```
-
-![img4](docs/imagenes/img4.png)
-
----
 
 ### Paso 3 — Instalar xlwings
 
@@ -66,7 +63,8 @@ Una vez termine la instalación anterior, escribe:
 python -m pip install xlwings
 ```
 
-![img5](docs/imagenes/img5.png)
+
+
 
 ---
 
@@ -80,13 +78,11 @@ https://github.com/pablo-vroch/excel-fundamental
 
 Haz clic en el botón verde **Code**.
 
-![img6](docs/imagenes/img6.png)
+![img4](docs/imagenes/img4.png)
 
 Luego selecciona **Download ZIP**.
 
-![img7](docs/imagenes/img7.png)
-
----
+![img5](docs/imagenes/img5.png)
 
 ### Paso 2 — Extraer los archivos
 
@@ -96,17 +92,16 @@ Haz clic derecho en el archivo:
 
 Selecciona la opción **Extraer todo**.
 
-![img8](docs/imagenes/img8.png)
-
----
+![img6](docs/imagenes/img6.png)
 
 ### Paso 3 — Abrir la aplicación
 
 Ingresa a la carpeta:
 
 `excel_fundamental_app`
+Siguiente la siguiente secuencia:
 
-![img9](docs/imagenes/img9.png)
+![img7](docs/imagenes/img7.png)
 
 Haz clic derecho en el archivo principal:
 
@@ -114,10 +109,10 @@ Haz clic derecho en el archivo principal:
 
 Selecciona **Propiedades**.
 
-![img10](docs/imagenes/img10.png)
+![img8](docs/imagenes/img8.png)
 
 Marca la casilla **Desbloquear** y haz clic en **Aplicar**.
 
-![img11](docs/imagenes/img11.png)
+![img9](docs/imagenes/img9.png)
 
-Ahora puedes abrir el archivo normalmente.
+Ahora puedes abrir el archivo normalmente
